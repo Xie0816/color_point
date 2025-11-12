@@ -158,6 +158,7 @@ pip install torch torch-scatter open3d opencv-python matplotlib numpy
 ## 使用方法
 
 ### 1. 数据准备
+数据集下载链接: https://pan.baidu.com/s/1utQJAYZ1j6Mrx7_CfezHeg 提取码: xpu7
 将数据集放置在 `Dataset/` 目录下，结构如下：
 ```
 Dataset/
